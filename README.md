@@ -68,7 +68,7 @@ The root locus analysis reveals:
 
 ```
 ├── stability_IPC.sci        # Main Scilab script
-├── pole_plot.png # Output plot / root locus
+├── pole_plot.png            # Output plot / root locus
 ├── README.md                # Project documentation
 └── LICENSE                  # MIT License
 ```
