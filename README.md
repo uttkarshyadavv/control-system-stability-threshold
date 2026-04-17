@@ -117,7 +117,7 @@ Therefore **Kcr = 70**.
 
 **Utkarsh Yadav**
 - 🎓 Chemical Engineering, SVNIT Surat
-- 💼 [LinkedIn](https://www.linkedin.com/in/uttkarshyadav)
+- 💼 [LinkedIn](https://www.linkedin.com/in/utkarshyadavv)
 - 💻 [GitHub](https://github.com/uttkarshyadavv)
 
 ---
