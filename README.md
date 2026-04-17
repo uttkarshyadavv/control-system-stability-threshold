@@ -33,7 +33,7 @@ Where:
 
 ## 📈 Visualization
 
-![Pole Plot](results/pole_plot.png)
+![Pole Plot](Screenshot 2026-04-17 080926.png)
 
 ---
 
