@@ -51,7 +51,7 @@ The root locus analysis reveals:
 - At **K = Kcr** → Poles lie on the imaginary axis → System is **marginally stable**
 - For **K > Kcr** → At least one pole has a positive real part → System is **unstable**
 
-> The critical gain **Kcr = 70** (derived from Routh-Hurwitz criterion: Kcr = 7 × 10 = 70)
+> The critical gain **Kcr = 70** (derived from Routh-Hurwitz criterion: Kcr = 70)
 
 ---
 
@@ -68,7 +68,7 @@ The root locus analysis reveals:
 
 ```
 ├── stability_IPC.sci        # Main Scilab script
-├── Screenshot 2026-04-17... # Output plot / root locus
+├── pole_plot.png # Output plot / root locus
 ├── README.md                # Project documentation
 └── LICENSE                  # MIT License
 ```
